@@ -1,0 +1,63 @@
+.home-container {
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 6px #b7acc0;
+  background-color: #b7acc0;
+}
+
+.logo-description-button-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo-container {
+  text-align: center;
+}
+
+.logoo {
+  height: 100px;
+}
+
+.description-button-container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding-left: 20px; /* Ajouter un espacement entre le logo et le texte */
+}
+
+.description-container {
+  text-align: left;
+}
+
+.description1 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px; /* Ajouter un espacement en bas du texte */
+}
+
+.button-container {
+  text-align: left;
+}
+
+.learn-more-button {
+  background-color: #4285f4;
+  color: #fff;
+  font-size: 18px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.learn-more-button:hover {
+  background-color: #3367d6;
+  transition: background-color 0.3s ease;
+}
+
+.box-shadow {
+  box-shadow: 5px 5px 6px #b7acc0;
+}
